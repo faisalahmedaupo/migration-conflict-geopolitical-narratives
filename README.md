@@ -1,8 +1,8 @@
-# Migration, Conflict & Geopolitical Narratives — v2.0
+# Migration, Conflict & Geopolitical Narratives
 
 **Scholarship-oriented, reproducible research project** at the intersection of Geopolitics, International Relations, Political Communication, Migration Studies, and Data Analysis.
 
-> **Important research integrity note:** this repository does not fabricate empirical findings. Demo data are explicitly synthetic/illustrative. Real-data scripts are provided for reproducible analysis using public/authorized sources.
+> **Important research integrity note:** This repository does not fabricate empirical findings. Demo data are explicitly synthetic/illustrative. Real-data scripts are provided for reproducible analysis using public/authorized sources.
 
 ## Core research question
 **How do geopolitical actors and media frame migration during periods of conflict, and how do these narratives vary across cases and over time?**
@@ -64,12 +64,6 @@ The demo pipeline creates **illustrative** outputs only. For the actual study, a
 - Data provenance is recorded in `data/README.md`.
 - Raw source files are intentionally not committed by default.
 - No API credentials are stored in Git.
-
-## Scholarship/CV positioning
-Suggested CV line:
-> **Research Project — Migration, Conflict & Geopolitical Narratives:** Developed a reproducible Python research pipeline integrating displacement, conflict-event, and global news data to study geopolitical framing across comparative crisis cases.
-
-Only claim analyses you have actually executed on real data. Do not describe synthetic demo results as research findings.
 
 ## License
 MIT for the original code and documentation. External datasets remain subject to their own licenses/terms.
