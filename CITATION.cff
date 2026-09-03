@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Migration, Conflict & Geopolitical Narratives"
+version: "2.0.0"
+authors:
+  - family-names: "Ahmed"
+    given-names: "Opu"
+description: "Reproducible research framework for computational analysis of migration, conflict and geopolitical narratives."
+license: "MIT"

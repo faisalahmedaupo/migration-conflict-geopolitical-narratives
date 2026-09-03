@@ -1,0 +1,541 @@
+date,case,text,source,clean_text,frame_security,frame_humanitarian,frame_economic,frame_responsibility,frame_diplomacy
+2022-08-17,Ukraine,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2023-05-17,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2022-07-29,Ukraine,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2024-05-14,Ukraine,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2022-07-11,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-10-31,Ukraine,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2023-02-12,Ukraine,Migration reporting discusses security and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and humanitarian in the context of conflict.,1,1,0,0,0
+2023-07-24,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-05-15,Ukraine,Migration reporting discusses border and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and security in the context of conflict.,2,0,0,0,0
+2023-03-17,Ukraine,Migration reporting discusses refugee and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and diplomacy in the context of conflict.,0,1,0,0,1
+2024-02-18,Ukraine,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2023-12-06,Ukraine,Migration reporting discusses refugee and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and humanitarian in the context of conflict.,0,2,0,0,0
+2022-09-13,Ukraine,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2024-01-11,Ukraine,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2022-04-04,Ukraine,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2022-06-13,Ukraine,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2024-02-18,Ukraine,Migration reporting discusses humanitarian and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and border in the context of conflict.,1,1,0,0,0
+2022-11-30,Ukraine,Migration reporting discusses border and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and security in the context of conflict.,2,0,0,0,0
+2023-07-01,Ukraine,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2022-12-17,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-08-04,Ukraine,Migration reporting discusses border and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and security in the context of conflict.,2,0,0,0,0
+2023-10-27,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2022-03-07,Ukraine,Migration reporting discusses humanitarian and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and border in the context of conflict.,1,1,0,0,0
+2022-05-16,Ukraine,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2023-10-07,Ukraine,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2024-03-21,Ukraine,Migration reporting discusses security and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and border in the context of conflict.,2,0,0,0,0
+2022-10-13,Ukraine,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2023-06-23,Ukraine,Migration reporting discusses diplomacy and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and humanitarian in the context of conflict.,0,1,0,0,1
+2024-01-12,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-11-09,Ukraine,Migration reporting discusses refugee and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and diplomacy in the context of conflict.,0,1,0,0,1
+2022-08-13,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-05-14,Ukraine,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2024-02-21,Ukraine,Migration reporting discusses diplomacy and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and border in the context of conflict.,1,0,0,0,1
+2022-01-24,Ukraine,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2023-07-01,Ukraine,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2024-06-09,Ukraine,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2022-01-07,Ukraine,Migration reporting discusses diplomacy and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and security in the context of conflict.,1,0,0,0,1
+2024-11-05,Ukraine,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2024-11-05,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-02-05,Ukraine,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2024-12-22,Ukraine,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2023-10-26,Ukraine,Migration reporting discusses refugee and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and diplomacy in the context of conflict.,0,1,0,0,1
+2024-01-14,Ukraine,Migration reporting discusses security and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and refugee in the context of conflict.,1,1,0,0,0
+2023-05-09,Ukraine,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2024-09-22,Ukraine,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2022-09-15,Ukraine,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2022-12-05,Ukraine,Migration reporting discusses diplomacy and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and humanitarian in the context of conflict.,0,1,0,0,1
+2023-03-10,Ukraine,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2024-03-28,Ukraine,Migration reporting discusses humanitarian and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and diplomacy in the context of conflict.,0,1,0,0,1
+2022-09-05,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2022-05-12,Ukraine,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2023-03-28,Ukraine,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2022-05-01,Ukraine,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2022-03-06,Ukraine,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2023-07-25,Ukraine,Migration reporting discusses security and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and diplomacy in the context of conflict.,1,0,0,0,1
+2024-08-26,Ukraine,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2024-04-13,Ukraine,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2022-07-18,Ukraine,Migration reporting discusses border and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and humanitarian in the context of conflict.,1,1,0,0,0
+2024-04-21,Ukraine,Migration reporting discusses refugee and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and diplomacy in the context of conflict.,0,1,0,0,1
+2022-05-05,Ukraine,Migration reporting discusses border and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and refugee in the context of conflict.,1,1,0,0,0
+2023-05-25,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-07-07,Ukraine,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2023-01-11,Ukraine,Migration reporting discusses humanitarian and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and security in the context of conflict.,1,1,0,0,0
+2022-06-04,Ukraine,Migration reporting discusses diplomacy and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and refugee in the context of conflict.,0,1,0,0,1
+2022-04-14,Ukraine,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2023-04-30,Ukraine,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2024-09-21,Ukraine,Migration reporting discusses security and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and humanitarian in the context of conflict.,1,1,0,0,0
+2022-05-01,Ukraine,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2022-01-05,Ukraine,Migration reporting discusses border and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and humanitarian in the context of conflict.,1,1,0,0,0
+2023-08-08,Ukraine,Migration reporting discusses diplomacy and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and humanitarian in the context of conflict.,0,1,0,0,1
+2022-11-14,Ukraine,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2023-03-22,Ukraine,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2022-05-05,Ukraine,Migration reporting discusses refugee and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and diplomacy in the context of conflict.,0,1,0,0,1
+2024-09-03,Ukraine,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2024-11-06,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2022-05-21,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-04-06,Ukraine,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2023-05-20,Ukraine,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2022-06-17,Ukraine,Migration reporting discusses diplomacy and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and border in the context of conflict.,1,0,0,0,1
+2023-06-19,Ukraine,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2023-05-04,Ukraine,Migration reporting discusses humanitarian and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and security in the context of conflict.,1,1,0,0,0
+2023-09-07,Ukraine,Migration reporting discusses border and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and refugee in the context of conflict.,1,1,0,0,0
+2022-01-20,Ukraine,Migration reporting discusses diplomacy and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and refugee in the context of conflict.,0,1,0,0,1
+2022-05-31,Ukraine,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2023-06-28,Ukraine,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2022-05-21,Ukraine,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2023-08-07,Ukraine,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2023-09-12,Ukraine,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2023-09-06,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2023-06-26,Ukraine,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2022-11-15,Ukraine,Migration reporting discusses border and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and security in the context of conflict.,2,0,0,0,0
+2023-12-04,Ukraine,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2024-11-01,Ukraine,Migration reporting discusses border and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and refugee in the context of conflict.,1,1,0,0,0
+2022-07-09,Ukraine,Migration reporting discusses border and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and refugee in the context of conflict.,1,1,0,0,0
+2022-01-08,Ukraine,Migration reporting discusses security and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and border in the context of conflict.,2,0,0,0,0
+2022-11-27,Ukraine,Migration reporting discusses diplomacy and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and humanitarian in the context of conflict.,0,1,0,0,1
+2022-01-20,Ukraine,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2022-11-02,Ukraine,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2022-10-31,Ukraine,Migration reporting discusses security and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and refugee in the context of conflict.,1,1,0,0,0
+2023-09-24,Ukraine,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2023-03-07,Ukraine,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2023-12-26,Ukraine,Migration reporting discusses diplomacy and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and security in the context of conflict.,1,0,0,0,1
+2023-04-30,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-04-24,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2023-11-12,Ukraine,Migration reporting discusses security and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and border in the context of conflict.,2,0,0,0,0
+2022-11-23,Ukraine,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2022-03-21,Ukraine,Migration reporting discusses security and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and diplomacy in the context of conflict.,1,0,0,0,1
+2024-07-31,Ukraine,Migration reporting discusses border and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and security in the context of conflict.,2,0,0,0,0
+2023-04-02,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-03-27,Ukraine,Migration reporting discusses border and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and refugee in the context of conflict.,1,1,0,0,0
+2023-07-26,Ukraine,Migration reporting discusses diplomacy and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and humanitarian in the context of conflict.,0,1,0,0,1
+2023-11-10,Ukraine,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2023-06-19,Ukraine,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2023-06-28,Ukraine,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2024-06-08,Ukraine,Migration reporting discusses border and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and humanitarian in the context of conflict.,1,1,0,0,0
+2024-11-13,Ukraine,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2023-01-25,Ukraine,Migration reporting discusses refugee and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and humanitarian in the context of conflict.,0,2,0,0,0
+2022-01-04,Ukraine,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2024-06-02,Ukraine,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2023-10-05,Ukraine,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2024-11-04,Ukraine,Migration reporting discusses humanitarian and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and border in the context of conflict.,1,1,0,0,0
+2024-04-04,Ukraine,Migration reporting discusses diplomacy and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and security in the context of conflict.,1,0,0,0,1
+2023-01-28,Ukraine,Migration reporting discusses humanitarian and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and security in the context of conflict.,1,1,0,0,0
+2023-09-09,Ukraine,Migration reporting discusses diplomacy and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and refugee in the context of conflict.,0,1,0,0,1
+2023-09-15,Ukraine,Migration reporting discusses security and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and humanitarian in the context of conflict.,1,1,0,0,0
+2023-10-22,Ukraine,Migration reporting discusses humanitarian and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and diplomacy in the context of conflict.,0,1,0,0,1
+2023-03-14,Ukraine,Migration reporting discusses security and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and refugee in the context of conflict.,1,1,0,0,0
+2023-08-05,Ukraine,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2023-09-28,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2022-10-29,Ukraine,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2023-05-17,Ukraine,Migration reporting discusses diplomacy and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and refugee in the context of conflict.,0,1,0,0,1
+2024-07-21,Ukraine,Migration reporting discusses diplomacy and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and security in the context of conflict.,1,0,0,0,1
+2024-02-26,Ukraine,Migration reporting discusses humanitarian and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and security in the context of conflict.,1,1,0,0,0
+2022-10-30,Ukraine,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2024-05-20,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-11-26,Ukraine,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2022-09-06,Ukraine,Migration reporting discusses security and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and humanitarian in the context of conflict.,1,1,0,0,0
+2024-12-23,Ukraine,Migration reporting discusses humanitarian and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and diplomacy in the context of conflict.,0,1,0,0,1
+2024-07-02,Ukraine,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2024-07-10,Ukraine,Migration reporting discusses security and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and border in the context of conflict.,2,0,0,0,0
+2024-12-03,Ukraine,Migration reporting discusses security and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and border in the context of conflict.,2,0,0,0,0
+2024-06-19,Ukraine,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2023-04-26,Ukraine,Migration reporting discusses border and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and diplomacy in the context of conflict.,1,0,0,0,1
+2022-06-15,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2023-04-19,Ukraine,Migration reporting discusses security and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and diplomacy in the context of conflict.,1,0,0,0,1
+2022-05-12,Ukraine,Migration reporting discusses humanitarian and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and border in the context of conflict.,1,1,0,0,0
+2024-08-12,Ukraine,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2024-05-10,Ukraine,Migration reporting discusses diplomacy and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and refugee in the context of conflict.,0,1,0,0,1
+2024-02-19,Ukraine,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2023-09-04,Ukraine,Migration reporting discusses humanitarian and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and security in the context of conflict.,1,1,0,0,0
+2024-09-26,Ukraine,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2024-06-11,Ukraine,Migration reporting discusses refugee and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and humanitarian in the context of conflict.,0,2,0,0,0
+2023-11-20,Ukraine,Migration reporting discusses security and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and humanitarian in the context of conflict.,1,1,0,0,0
+2022-09-19,Ukraine,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2022-02-25,Ukraine,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2022-10-05,Ukraine,Migration reporting discusses security and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and refugee in the context of conflict.,1,1,0,0,0
+2023-06-17,Ukraine,Migration reporting discusses border and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and security in the context of conflict.,2,0,0,0,0
+2024-07-20,Ukraine,Migration reporting discusses border and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and humanitarian in the context of conflict.,1,1,0,0,0
+2023-07-24,Ukraine,Migration reporting discusses border and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and refugee in the context of conflict.,1,1,0,0,0
+2024-08-21,Ukraine,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2022-04-17,Ukraine,Migration reporting discusses security and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and refugee in the context of conflict.,1,1,0,0,0
+2022-03-24,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2023-02-13,Ukraine,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2022-11-09,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-08-27,Ukraine,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2023-03-23,Ukraine,Migration reporting discusses border and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and diplomacy in the context of conflict.,1,0,0,0,1
+2022-12-10,Ukraine,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2023-09-30,Ukraine,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2022-02-22,Ukraine,Migration reporting discusses diplomacy and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and humanitarian in the context of conflict.,0,1,0,0,1
+2024-03-23,Ukraine,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2023-05-13,Ukraine,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2022-09-05,Ukraine,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2024-12-27,Ukraine,Migration reporting discusses border and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and refugee in the context of conflict.,1,1,0,0,0
+2024-11-02,Ukraine,Migration reporting discusses refugee and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and humanitarian in the context of conflict.,0,2,0,0,0
+2024-09-30,Ukraine,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2024-01-12,Ukraine,Migration reporting discusses security and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and humanitarian in the context of conflict.,1,1,0,0,0
+2022-12-27,Ukraine,Migration reporting discusses diplomacy and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and humanitarian in the context of conflict.,0,1,0,0,1
+2024-08-10,Ukraine,Migration reporting discusses diplomacy and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and border in the context of conflict.,1,0,0,0,1
+2023-10-23,Ukraine,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2023-07-26,Ukraine,Migration reporting discusses security and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and humanitarian in the context of conflict.,1,1,0,0,0
+2024-02-16,Rohingya,Migration reporting discusses refugee and responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and responsibility in the context of conflict.,0,1,0,1,0
+2023-10-28,Rohingya,Migration reporting discusses responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility in the context of conflict.,0,0,0,1,0
+2023-03-11,Rohingya,Migration reporting discusses border and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and security in the context of conflict.,2,0,0,0,0
+2023-07-27,Rohingya,Migration reporting discusses security and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and refugee in the context of conflict.,1,1,0,0,0
+2024-11-24,Rohingya,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2023-05-10,Rohingya,Migration reporting discusses responsibility and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and humanitarian in the context of conflict.,0,1,0,1,0
+2024-09-02,Rohingya,Migration reporting discusses responsibility and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and refugee in the context of conflict.,0,1,0,1,0
+2022-07-10,Rohingya,Migration reporting discusses humanitarian and responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and responsibility in the context of conflict.,0,1,0,1,0
+2023-05-14,Rohingya,Migration reporting discusses security and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and border in the context of conflict.,2,0,0,0,0
+2024-08-27,Rohingya,Migration reporting discusses responsibility and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and border in the context of conflict.,1,0,0,1,0
+2023-12-22,Rohingya,Migration reporting discusses border and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and security in the context of conflict.,2,0,0,0,0
+2023-05-30,Rohingya,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2023-01-30,Rohingya,Migration reporting discusses refugee and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and humanitarian in the context of conflict.,0,2,0,0,0
+2023-01-28,Rohingya,Migration reporting discusses responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility in the context of conflict.,0,0,0,1,0
+2023-07-21,Rohingya,Migration reporting discusses refugee and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and humanitarian in the context of conflict.,0,2,0,0,0
+2023-08-30,Rohingya,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2023-01-03,Rohingya,Migration reporting discusses refugee and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and humanitarian in the context of conflict.,0,2,0,0,0
+2023-07-16,Rohingya,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2023-08-22,Rohingya,Migration reporting discusses responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility in the context of conflict.,0,0,0,1,0
+2022-07-30,Rohingya,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2023-08-06,Rohingya,Migration reporting discusses responsibility and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and security in the context of conflict.,1,0,0,1,0
+2023-11-29,Rohingya,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2023-06-02,Rohingya,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2024-03-31,Rohingya,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2022-11-07,Rohingya,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2023-09-15,Rohingya,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2022-08-31,Rohingya,Migration reporting discusses security and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and humanitarian in the context of conflict.,1,1,0,0,0
+2024-12-06,Rohingya,Migration reporting discusses responsibility and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and security in the context of conflict.,1,0,0,1,0
+2023-09-01,Rohingya,Migration reporting discusses border and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and refugee in the context of conflict.,1,1,0,0,0
+2022-07-23,Rohingya,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2023-06-26,Rohingya,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2023-05-07,Rohingya,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2022-06-03,Rohingya,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2024-04-16,Rohingya,Migration reporting discusses security and responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and responsibility in the context of conflict.,1,0,0,1,0
+2023-08-20,Rohingya,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2023-08-14,Rohingya,Migration reporting discusses responsibility and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and refugee in the context of conflict.,0,1,0,1,0
+2023-04-24,Rohingya,Migration reporting discusses security and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and humanitarian in the context of conflict.,1,1,0,0,0
+2024-05-20,Rohingya,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2023-04-06,Rohingya,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2022-10-19,Rohingya,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2022-12-06,Rohingya,Migration reporting discusses security and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and border in the context of conflict.,2,0,0,0,0
+2024-06-18,Rohingya,Migration reporting discusses responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility in the context of conflict.,0,0,0,1,0
+2023-09-15,Rohingya,Migration reporting discusses border and responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and responsibility in the context of conflict.,1,0,0,1,0
+2024-06-15,Rohingya,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2022-03-23,Rohingya,Migration reporting discusses border and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and security in the context of conflict.,2,0,0,0,0
+2022-02-22,Rohingya,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2022-02-12,Rohingya,Migration reporting discusses security and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and refugee in the context of conflict.,1,1,0,0,0
+2022-12-25,Rohingya,Migration reporting discusses security and responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and responsibility in the context of conflict.,1,0,0,1,0
+2023-07-24,Rohingya,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-06-11,Rohingya,Migration reporting discusses refugee and responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and responsibility in the context of conflict.,0,1,0,1,0
+2023-12-14,Rohingya,Migration reporting discusses border and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and security in the context of conflict.,2,0,0,0,0
+2022-08-03,Rohingya,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2024-04-23,Rohingya,Migration reporting discusses border and responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and responsibility in the context of conflict.,1,0,0,1,0
+2022-03-17,Rohingya,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2023-06-01,Rohingya,Migration reporting discusses refugee and responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and responsibility in the context of conflict.,0,1,0,1,0
+2024-11-19,Rohingya,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-08-04,Rohingya,Migration reporting discusses refugee and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and humanitarian in the context of conflict.,0,2,0,0,0
+2024-11-27,Rohingya,Migration reporting discusses security and responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and responsibility in the context of conflict.,1,0,0,1,0
+2024-06-24,Rohingya,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2023-07-01,Rohingya,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2024-06-16,Rohingya,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2023-05-06,Rohingya,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2022-01-29,Rohingya,Migration reporting discusses refugee and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and humanitarian in the context of conflict.,0,2,0,0,0
+2022-08-21,Rohingya,Migration reporting discusses refugee and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and humanitarian in the context of conflict.,0,2,0,0,0
+2024-10-17,Rohingya,Migration reporting discusses security and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and border in the context of conflict.,2,0,0,0,0
+2024-04-30,Rohingya,Migration reporting discusses responsibility and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and humanitarian in the context of conflict.,0,1,0,1,0
+2024-07-24,Rohingya,Migration reporting discusses responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility in the context of conflict.,0,0,0,1,0
+2023-01-26,Rohingya,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2023-07-20,Rohingya,Migration reporting discusses border and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and security in the context of conflict.,2,0,0,0,0
+2022-01-06,Rohingya,Migration reporting discusses border and responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and responsibility in the context of conflict.,1,0,0,1,0
+2022-11-01,Rohingya,Migration reporting discusses security and responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and responsibility in the context of conflict.,1,0,0,1,0
+2023-12-08,Rohingya,Migration reporting discusses security and responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and responsibility in the context of conflict.,1,0,0,1,0
+2024-07-21,Rohingya,Migration reporting discusses humanitarian and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and security in the context of conflict.,1,1,0,0,0
+2024-02-24,Rohingya,Migration reporting discusses responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility in the context of conflict.,0,0,0,1,0
+2022-03-31,Rohingya,Migration reporting discusses responsibility and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and security in the context of conflict.,1,0,0,1,0
+2024-03-01,Rohingya,Migration reporting discusses responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility in the context of conflict.,0,0,0,1,0
+2022-03-17,Rohingya,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2023-11-11,Rohingya,Migration reporting discusses responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility in the context of conflict.,0,0,0,1,0
+2022-07-24,Rohingya,Migration reporting discusses refugee and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and humanitarian in the context of conflict.,0,2,0,0,0
+2024-04-19,Rohingya,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2024-08-19,Rohingya,Migration reporting discusses border and responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and responsibility in the context of conflict.,1,0,0,1,0
+2022-06-14,Rohingya,Migration reporting discusses security and responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and responsibility in the context of conflict.,1,0,0,1,0
+2023-10-11,Rohingya,Migration reporting discusses security and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and refugee in the context of conflict.,1,1,0,0,0
+2022-05-21,Rohingya,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2023-04-11,Rohingya,Migration reporting discusses responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility in the context of conflict.,0,0,0,1,0
+2022-07-21,Rohingya,Migration reporting discusses responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility in the context of conflict.,0,0,0,1,0
+2022-12-07,Rohingya,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2023-10-27,Rohingya,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2024-01-05,Rohingya,Migration reporting discusses responsibility and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and humanitarian in the context of conflict.,0,1,0,1,0
+2023-05-16,Rohingya,Migration reporting discusses security and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and humanitarian in the context of conflict.,1,1,0,0,0
+2022-12-15,Rohingya,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2024-02-23,Rohingya,Migration reporting discusses responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility in the context of conflict.,0,0,0,1,0
+2022-10-21,Rohingya,Migration reporting discusses responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility in the context of conflict.,0,0,0,1,0
+2023-06-05,Rohingya,Migration reporting discusses border and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and refugee in the context of conflict.,1,1,0,0,0
+2024-08-10,Rohingya,Migration reporting discusses security and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and humanitarian in the context of conflict.,1,1,0,0,0
+2022-06-01,Rohingya,Migration reporting discusses border and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and security in the context of conflict.,2,0,0,0,0
+2024-05-18,Rohingya,Migration reporting discusses responsibility and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and border in the context of conflict.,1,0,0,1,0
+2023-02-12,Rohingya,Migration reporting discusses responsibility and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and refugee in the context of conflict.,0,1,0,1,0
+2023-05-01,Rohingya,Migration reporting discusses security and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and border in the context of conflict.,2,0,0,0,0
+2023-08-29,Rohingya,Migration reporting discusses refugee and responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and responsibility in the context of conflict.,0,1,0,1,0
+2023-07-17,Rohingya,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2022-04-11,Rohingya,Migration reporting discusses border and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and humanitarian in the context of conflict.,1,1,0,0,0
+2023-12-23,Rohingya,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2023-05-29,Rohingya,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2022-03-22,Rohingya,Migration reporting discusses responsibility and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and refugee in the context of conflict.,0,1,0,1,0
+2024-01-18,Rohingya,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2023-08-28,Rohingya,Migration reporting discusses responsibility and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and humanitarian in the context of conflict.,0,1,0,1,0
+2023-02-16,Rohingya,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-01-20,Rohingya,Migration reporting discusses humanitarian and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and border in the context of conflict.,1,1,0,0,0
+2024-09-13,Rohingya,Migration reporting discusses border and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and refugee in the context of conflict.,1,1,0,0,0
+2024-08-17,Rohingya,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2023-04-08,Rohingya,Migration reporting discusses security and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and border in the context of conflict.,2,0,0,0,0
+2022-07-04,Rohingya,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2022-09-11,Rohingya,Migration reporting discusses border and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and security in the context of conflict.,2,0,0,0,0
+2024-02-20,Rohingya,Migration reporting discusses refugee and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and humanitarian in the context of conflict.,0,2,0,0,0
+2024-08-23,Rohingya,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2023-11-03,Rohingya,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2024-08-08,Rohingya,Migration reporting discusses responsibility and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and refugee in the context of conflict.,0,1,0,1,0
+2022-10-14,Rohingya,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2023-09-16,Rohingya,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2023-04-26,Rohingya,Migration reporting discusses responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility in the context of conflict.,0,0,0,1,0
+2024-07-18,Rohingya,Migration reporting discusses security and responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and responsibility in the context of conflict.,1,0,0,1,0
+2022-11-13,Rohingya,Migration reporting discusses refugee and responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and responsibility in the context of conflict.,0,1,0,1,0
+2024-04-15,Rohingya,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2023-03-21,Rohingya,Migration reporting discusses responsibility and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and humanitarian in the context of conflict.,0,1,0,1,0
+2024-01-13,Rohingya,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2024-01-05,Rohingya,Migration reporting discusses responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility in the context of conflict.,0,0,0,1,0
+2023-07-20,Rohingya,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2024-07-20,Rohingya,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2022-02-13,Rohingya,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2023-05-14,Rohingya,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2023-02-25,Rohingya,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2023-03-01,Rohingya,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2023-11-04,Rohingya,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2022-01-06,Rohingya,Migration reporting discusses humanitarian and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and security in the context of conflict.,1,1,0,0,0
+2023-05-29,Rohingya,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2022-02-22,Rohingya,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2024-01-04,Rohingya,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2023-10-26,Rohingya,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2023-06-28,Rohingya,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2024-05-12,Rohingya,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2024-09-02,Rohingya,Migration reporting discusses border and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and refugee in the context of conflict.,1,1,0,0,0
+2024-07-14,Rohingya,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2022-03-30,Rohingya,Migration reporting discusses responsibility and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and refugee in the context of conflict.,0,1,0,1,0
+2022-05-05,Rohingya,Migration reporting discusses responsibility and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and security in the context of conflict.,1,0,0,1,0
+2022-08-10,Rohingya,Migration reporting discusses responsibility and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and refugee in the context of conflict.,0,1,0,1,0
+2022-06-15,Rohingya,Migration reporting discusses security and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and humanitarian in the context of conflict.,1,1,0,0,0
+2022-05-15,Rohingya,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2023-10-28,Rohingya,Migration reporting discusses security and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and border in the context of conflict.,2,0,0,0,0
+2024-07-18,Rohingya,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2023-03-17,Rohingya,Migration reporting discusses responsibility and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and humanitarian in the context of conflict.,0,1,0,1,0
+2024-04-27,Rohingya,Migration reporting discusses responsibility and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and security in the context of conflict.,1,0,0,1,0
+2024-05-01,Rohingya,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2024-05-24,Rohingya,Migration reporting discusses border and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and security in the context of conflict.,2,0,0,0,0
+2022-11-09,Rohingya,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2022-06-24,Rohingya,Migration reporting discusses responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility in the context of conflict.,0,0,0,1,0
+2022-07-17,Rohingya,Migration reporting discusses humanitarian and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and refugee in the context of conflict.,0,2,0,0,0
+2023-11-07,Rohingya,Migration reporting discusses responsibility in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility in the context of conflict.,0,0,0,1,0
+2023-12-26,Rohingya,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2023-10-02,Rohingya,Migration reporting discusses refugee and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and humanitarian in the context of conflict.,0,2,0,0,0
+2022-11-13,Rohingya,Migration reporting discusses humanitarian and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and refugee in the context of conflict.,0,2,0,0,0
+2023-12-19,Rohingya,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2023-04-09,Rohingya,Migration reporting discusses security and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and refugee in the context of conflict.,1,1,0,0,0
+2023-07-02,Rohingya,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2023-07-14,Rohingya,Migration reporting discusses border and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and security in the context of conflict.,2,0,0,0,0
+2022-01-13,Rohingya,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2024-03-31,Rohingya,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2022-03-04,Rohingya,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2023-03-17,Rohingya,Migration reporting discusses responsibility and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and security in the context of conflict.,1,0,0,1,0
+2023-11-30,Rohingya,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2023-10-01,Rohingya,Migration reporting discusses security and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and refugee in the context of conflict.,1,1,0,0,0
+2022-04-18,Rohingya,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2022-04-12,Rohingya,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2024-06-26,Rohingya,Migration reporting discusses responsibility and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses responsibility and security in the context of conflict.,1,0,0,1,0
+2024-04-28,Rohingya,Migration reporting discusses humanitarian and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and refugee in the context of conflict.,0,2,0,0,0
+2023-12-08,Rohingya,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2024-09-23,Rohingya,Migration reporting discusses refugee and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and humanitarian in the context of conflict.,0,2,0,0,0
+2024-03-20,Rohingya,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2023-02-23,Rohingya,Migration reporting discusses humanitarian and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and security in the context of conflict.,1,1,0,0,0
+2023-06-08,Rohingya,Migration reporting discusses border and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and refugee in the context of conflict.,1,1,0,0,0
+2022-01-16,MiddleEast,Migration reporting discusses border and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and humanitarian in the context of conflict.,1,1,0,0,0
+2022-09-22,MiddleEast,Migration reporting discusses refugee and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and humanitarian in the context of conflict.,0,2,0,0,0
+2024-10-21,MiddleEast,Migration reporting discusses security and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and border in the context of conflict.,2,0,0,0,0
+2022-03-28,MiddleEast,Migration reporting discusses security and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and border in the context of conflict.,2,0,0,0,0
+2022-06-09,MiddleEast,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2024-04-08,MiddleEast,Migration reporting discusses diplomacy and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and security in the context of conflict.,1,0,0,0,1
+2024-04-09,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2022-12-18,MiddleEast,Migration reporting discusses diplomacy and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and security in the context of conflict.,1,0,0,0,1
+2024-06-13,MiddleEast,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2024-06-11,MiddleEast,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2024-03-21,MiddleEast,Migration reporting discusses diplomacy and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and humanitarian in the context of conflict.,0,1,0,0,1
+2023-11-14,MiddleEast,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-11-11,MiddleEast,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2024-11-10,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2023-12-21,MiddleEast,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2022-07-30,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2023-02-09,MiddleEast,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2022-11-10,MiddleEast,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2024-10-08,MiddleEast,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2023-10-24,MiddleEast,Migration reporting discusses humanitarian and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and border in the context of conflict.,1,1,0,0,0
+2022-05-20,MiddleEast,Migration reporting discusses border and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and diplomacy in the context of conflict.,1,0,0,0,1
+2023-07-17,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2024-11-05,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2024-08-03,MiddleEast,Migration reporting discusses security and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and refugee in the context of conflict.,1,1,0,0,0
+2024-01-26,MiddleEast,Migration reporting discusses security and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and refugee in the context of conflict.,1,1,0,0,0
+2024-11-04,MiddleEast,Migration reporting discusses border and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and security in the context of conflict.,2,0,0,0,0
+2024-07-10,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2024-09-01,MiddleEast,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-07-11,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2022-06-22,MiddleEast,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2023-05-23,MiddleEast,Migration reporting discusses border and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and humanitarian in the context of conflict.,1,1,0,0,0
+2024-01-16,MiddleEast,Migration reporting discusses diplomacy and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and border in the context of conflict.,1,0,0,0,1
+2024-04-17,MiddleEast,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2023-11-17,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2022-07-13,MiddleEast,Migration reporting discusses diplomacy and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and refugee in the context of conflict.,0,1,0,0,1
+2022-11-04,MiddleEast,Migration reporting discusses security and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and humanitarian in the context of conflict.,1,1,0,0,0
+2023-12-18,MiddleEast,Migration reporting discusses border and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and humanitarian in the context of conflict.,1,1,0,0,0
+2022-06-23,MiddleEast,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2023-11-04,MiddleEast,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2022-07-11,MiddleEast,Migration reporting discusses refugee and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and diplomacy in the context of conflict.,0,1,0,0,1
+2022-02-07,MiddleEast,Migration reporting discusses diplomacy and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and humanitarian in the context of conflict.,0,1,0,0,1
+2023-03-15,MiddleEast,Migration reporting discusses border and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and humanitarian in the context of conflict.,1,1,0,0,0
+2023-04-09,MiddleEast,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2022-06-08,MiddleEast,Migration reporting discusses security and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and refugee in the context of conflict.,1,1,0,0,0
+2023-11-21,MiddleEast,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2024-02-11,MiddleEast,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2023-01-06,MiddleEast,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2022-03-31,MiddleEast,Migration reporting discusses diplomacy and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and humanitarian in the context of conflict.,0,1,0,0,1
+2024-06-28,MiddleEast,Migration reporting discusses border and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and humanitarian in the context of conflict.,1,1,0,0,0
+2024-12-29,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2024-08-18,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2024-06-21,MiddleEast,Migration reporting discusses diplomacy and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and border in the context of conflict.,1,0,0,0,1
+2024-10-26,MiddleEast,Migration reporting discusses humanitarian and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and refugee in the context of conflict.,0,2,0,0,0
+2022-10-11,MiddleEast,Migration reporting discusses security and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and border in the context of conflict.,2,0,0,0,0
+2024-01-31,MiddleEast,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2022-09-13,MiddleEast,Migration reporting discusses security and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and humanitarian in the context of conflict.,1,1,0,0,0
+2023-07-13,MiddleEast,Migration reporting discusses refugee and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and humanitarian in the context of conflict.,0,2,0,0,0
+2024-06-14,MiddleEast,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2024-07-12,MiddleEast,Migration reporting discusses security and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and border in the context of conflict.,2,0,0,0,0
+2022-04-20,MiddleEast,Migration reporting discusses refugee and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and diplomacy in the context of conflict.,0,1,0,0,1
+2023-04-28,MiddleEast,Migration reporting discusses security and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and diplomacy in the context of conflict.,1,0,0,0,1
+2023-04-05,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2022-07-22,MiddleEast,Migration reporting discusses humanitarian and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and refugee in the context of conflict.,0,2,0,0,0
+2022-03-20,MiddleEast,Migration reporting discusses border and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and humanitarian in the context of conflict.,1,1,0,0,0
+2024-08-18,MiddleEast,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2022-06-12,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2023-03-18,MiddleEast,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2024-12-16,MiddleEast,Migration reporting discusses security and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and diplomacy in the context of conflict.,1,0,0,0,1
+2023-05-02,MiddleEast,Migration reporting discusses security and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and refugee in the context of conflict.,1,1,0,0,0
+2023-05-04,MiddleEast,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2022-05-09,MiddleEast,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2022-02-03,MiddleEast,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2023-08-20,MiddleEast,Migration reporting discusses security and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and diplomacy in the context of conflict.,1,0,0,0,1
+2023-05-08,MiddleEast,Migration reporting discusses humanitarian and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and security in the context of conflict.,1,1,0,0,0
+2024-12-08,MiddleEast,Migration reporting discusses security and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and refugee in the context of conflict.,1,1,0,0,0
+2024-03-10,MiddleEast,Migration reporting discusses security and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and border in the context of conflict.,2,0,0,0,0
+2024-02-04,MiddleEast,Migration reporting discusses security and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and diplomacy in the context of conflict.,1,0,0,0,1
+2022-05-19,MiddleEast,Migration reporting discusses humanitarian and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and security in the context of conflict.,1,1,0,0,0
+2023-11-12,MiddleEast,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2023-12-23,MiddleEast,Migration reporting discusses humanitarian and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and border in the context of conflict.,1,1,0,0,0
+2024-09-07,MiddleEast,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2022-05-10,MiddleEast,Migration reporting discusses security and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and diplomacy in the context of conflict.,1,0,0,0,1
+2023-02-17,MiddleEast,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2022-03-27,MiddleEast,Migration reporting discusses diplomacy and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and border in the context of conflict.,1,0,0,0,1
+2024-08-27,MiddleEast,Migration reporting discusses security and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and humanitarian in the context of conflict.,1,1,0,0,0
+2023-08-09,MiddleEast,Migration reporting discusses security and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and diplomacy in the context of conflict.,1,0,0,0,1
+2023-07-14,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2024-06-13,MiddleEast,Migration reporting discusses border and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and refugee in the context of conflict.,1,1,0,0,0
+2023-11-26,MiddleEast,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2024-10-15,MiddleEast,Migration reporting discusses refugee and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and diplomacy in the context of conflict.,0,1,0,0,1
+2022-06-19,MiddleEast,Migration reporting discusses security and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and border in the context of conflict.,2,0,0,0,0
+2023-01-05,MiddleEast,Migration reporting discusses diplomacy and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and security in the context of conflict.,1,0,0,0,1
+2022-06-13,MiddleEast,Migration reporting discusses diplomacy and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and refugee in the context of conflict.,0,1,0,0,1
+2024-07-02,MiddleEast,Migration reporting discusses humanitarian and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and border in the context of conflict.,1,1,0,0,0
+2023-12-21,MiddleEast,Migration reporting discusses security and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and diplomacy in the context of conflict.,1,0,0,0,1
+2024-06-09,MiddleEast,Migration reporting discusses security and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and refugee in the context of conflict.,1,1,0,0,0
+2024-04-11,MiddleEast,Migration reporting discusses refugee and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and humanitarian in the context of conflict.,0,2,0,0,0
+2022-03-05,MiddleEast,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2024-06-16,MiddleEast,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2022-05-18,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2024-01-12,MiddleEast,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2022-11-11,MiddleEast,Migration reporting discusses diplomacy and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and refugee in the context of conflict.,0,1,0,0,1
+2024-06-28,MiddleEast,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2022-10-09,MiddleEast,Migration reporting discusses border and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and diplomacy in the context of conflict.,1,0,0,0,1
+2023-07-25,MiddleEast,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2022-02-23,MiddleEast,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2024-11-26,MiddleEast,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2023-06-21,MiddleEast,Migration reporting discusses border and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and humanitarian in the context of conflict.,1,1,0,0,0
+2023-08-08,MiddleEast,Migration reporting discusses humanitarian and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and security in the context of conflict.,1,1,0,0,0
+2022-10-05,MiddleEast,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2022-12-20,MiddleEast,Migration reporting discusses security and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and diplomacy in the context of conflict.,1,0,0,0,1
+2023-12-13,MiddleEast,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2023-08-18,MiddleEast,Migration reporting discusses humanitarian and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and refugee in the context of conflict.,0,2,0,0,0
+2024-01-11,MiddleEast,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2023-02-16,MiddleEast,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2024-10-08,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2024-01-26,MiddleEast,Migration reporting discusses refugee and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and humanitarian in the context of conflict.,0,2,0,0,0
+2022-06-26,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2024-03-26,MiddleEast,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2024-04-18,MiddleEast,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2023-10-12,MiddleEast,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2024-08-12,MiddleEast,Migration reporting discusses humanitarian and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and refugee in the context of conflict.,0,2,0,0,0
+2022-09-22,MiddleEast,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2022-09-12,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2022-12-04,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2023-04-07,MiddleEast,Migration reporting discusses refugee and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and diplomacy in the context of conflict.,0,1,0,0,1
+2022-06-11,MiddleEast,Migration reporting discusses humanitarian and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and diplomacy in the context of conflict.,0,1,0,0,1
+2022-09-14,MiddleEast,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2024-10-26,MiddleEast,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2022-11-12,MiddleEast,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2023-11-23,MiddleEast,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2022-06-16,MiddleEast,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2023-06-27,MiddleEast,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2024-05-03,MiddleEast,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2023-08-17,MiddleEast,Migration reporting discusses border and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and humanitarian in the context of conflict.,1,1,0,0,0
+2024-04-11,MiddleEast,Migration reporting discusses border and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and security in the context of conflict.,2,0,0,0,0
+2022-05-03,MiddleEast,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2024-05-01,MiddleEast,Migration reporting discusses border and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and humanitarian in the context of conflict.,1,1,0,0,0
+2023-11-28,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2023-10-16,MiddleEast,Migration reporting discusses border and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and humanitarian in the context of conflict.,1,1,0,0,0
+2024-01-29,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2023-05-11,MiddleEast,Migration reporting discusses security and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and diplomacy in the context of conflict.,1,0,0,0,1
+2024-07-09,MiddleEast,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2022-07-18,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2024-02-26,MiddleEast,Migration reporting discusses humanitarian and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and refugee in the context of conflict.,0,2,0,0,0
+2023-11-02,MiddleEast,Migration reporting discusses humanitarian and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and refugee in the context of conflict.,0,2,0,0,0
+2024-10-17,MiddleEast,Migration reporting discusses border and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and diplomacy in the context of conflict.,1,0,0,0,1
+2024-10-15,MiddleEast,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-03-16,MiddleEast,Migration reporting discusses humanitarian and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and refugee in the context of conflict.,0,2,0,0,0
+2023-12-24,MiddleEast,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2023-07-31,MiddleEast,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2023-08-09,MiddleEast,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-06-01,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2024-01-20,MiddleEast,Migration reporting discusses diplomacy and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and security in the context of conflict.,1,0,0,0,1
+2024-03-31,MiddleEast,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2023-02-03,MiddleEast,Migration reporting discusses refugee and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and diplomacy in the context of conflict.,0,1,0,0,1
+2022-05-31,MiddleEast,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2023-07-27,MiddleEast,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2022-07-18,MiddleEast,Migration reporting discusses diplomacy and refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy and refugee in the context of conflict.,0,1,0,0,1
+2024-01-19,MiddleEast,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2024-11-08,MiddleEast,Migration reporting discusses refugee and security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and security in the context of conflict.,1,1,0,0,0
+2022-04-03,MiddleEast,Migration reporting discusses humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian in the context of conflict.,0,1,0,0,0
+2023-11-14,MiddleEast,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2022-11-02,MiddleEast,Migration reporting discusses diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses diplomacy in the context of conflict.,0,0,0,0,1
+2023-10-15,MiddleEast,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2023-09-05,MiddleEast,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2023-09-06,MiddleEast,Migration reporting discusses security and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and diplomacy in the context of conflict.,1,0,0,0,1
+2023-11-10,MiddleEast,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2023-09-23,MiddleEast,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2024-08-29,MiddleEast,Migration reporting discusses refugee and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and humanitarian in the context of conflict.,0,2,0,0,0
+2022-04-16,MiddleEast,Migration reporting discusses humanitarian and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses humanitarian and border in the context of conflict.,1,1,0,0,0
+2022-10-30,MiddleEast,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2022-08-14,MiddleEast,Migration reporting discusses security in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security in the context of conflict.,1,0,0,0,0
+2024-06-22,MiddleEast,Migration reporting discusses border and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border and humanitarian in the context of conflict.,1,1,0,0,0
+2024-04-25,MiddleEast,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2024-10-24,MiddleEast,Migration reporting discusses security and humanitarian in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses security and humanitarian in the context of conflict.,1,1,0,0,0
+2024-11-28,MiddleEast,Migration reporting discusses refugee in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee in the context of conflict.,0,1,0,0,0
+2023-10-28,MiddleEast,Migration reporting discusses refugee and border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and border in the context of conflict.,1,1,0,0,0
+2023-10-05,MiddleEast,Migration reporting discusses border in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses border in the context of conflict.,1,0,0,0,0
+2024-12-27,MiddleEast,Migration reporting discusses refugee and diplomacy in the context of conflict.,SYNTHETIC_DEMO,migration reporting discusses refugee and diplomacy in the context of conflict.,0,1,0,0,1

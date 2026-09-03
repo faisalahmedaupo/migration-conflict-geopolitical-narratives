@@ -1,0 +1,24 @@
+project:
+  name: "Migration, Conflict & Geopolitical Narratives"
+  version: "2.0"
+  seed: 42
+study:
+  start_year: 2020
+  end_year: 2025
+  cases:
+    - name: "Ukraine"
+      label: "Russia–Ukraine war"
+    - name: "Rohingya"
+      label: "Rohingya displacement / Bangladesh–Myanmar"
+    - name: "MiddleEast"
+      label: "Configurable Middle East case"
+frames:
+  security: [security, terrorism, threat, border, control, smuggling, illegal, militarization]
+  humanitarian: [refugee, humanitarian, protection, asylum, displacement, aid, civilian, crisis]
+  economic: [labor, jobs, economy, cost, welfare, remittance, workforce]
+  responsibility: [responsibility, burden, responsibility-sharing, solidarity, host, donor]
+  diplomacy: [diplomacy, negotiation, sanctions, alliance, sovereignty, foreign-policy, international]
+paths:
+  raw: "data/raw"
+  processed: "data/processed"
+  figures: "results/figures"
