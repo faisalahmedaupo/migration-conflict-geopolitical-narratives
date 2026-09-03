@@ -1,7 +1,5 @@
 # Migration, Conflict & Geopolitical Narratives
 
-**Scholarship-oriented, reproducible research project** at the intersection of Geopolitics, International Relations, Political Communication, Migration Studies, and Data Analysis.
-
 > **Important research integrity note:** This repository does not fabricate empirical findings. Demo data are explicitly synthetic/illustrative. Real-data scripts are provided for reproducible analysis using public/authorized sources.
 
 ## Core research question
